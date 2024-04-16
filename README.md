@@ -1,1 +1,5 @@
-# NNDL-Final-Project
+VISION-BASED HUMAN ACTIVITY RECOGNITION USING DEEP LEARNING
+CS5720 Neural Network Deep Learning - Project
+
+Name: Ruchita Reddy Surakanti
+ID: 700753219
